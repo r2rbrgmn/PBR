@@ -18,7 +18,7 @@ XCPay：集成第三方支付，由于微信的SDK可能会出现在其他第三
   s.author       = { "樊小聪" => "1016697223@qq.com" }
   s.source       = { :git => "https://github.com/fanxiaocong/XCPay.git", :tag => "#{s.version}" }
 
-  s.platform         = :ios, "8.0"
+  s.platform         = :ios, "8.3"
   s.static_framework = true
 
 
